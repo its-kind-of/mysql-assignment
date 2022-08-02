@@ -1,4 +1,4 @@
-# mysql-assignment-1
+# mysql-problems
 1. create a database called 'assignment' (Note please do the assignment tasks in this database)
 2. Create the tables from ConsolidatedTables.sql and enter the records as specified in it.
 3. Create a table called countries with the following columns name, population, capital <br>
@@ -36,3 +36,4 @@ balance_stock
 10. Create a view called emp_sal on the emp table by selecting the following fields in the
 order of highest salary to the lowest salary.
 emp_no, first_name, last_name, salar
+
